@@ -1,2 +1,6 @@
 testttttttt
+<<<<<<< HEAD
 modificadoooooooo
+=======
+modificadoooooooooooooooooooooooooooo
+>>>>>>> f9e7c12a9a2a14eac5cb8be2eaad4b335f21e6cb
